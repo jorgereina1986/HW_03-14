@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * Created by Jorge Reina on 3/13/15.
+ * Created by Jorge Reina and Kevin Ponce on 3/13/15.
  */
 public class Javagame {
     public static void main(String[] args) {
