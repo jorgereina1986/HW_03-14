@@ -5,6 +5,10 @@ import java.util.Scanner;
 
 /**
  * Created by Jorge Reina and Kevin Ponce on 3/13/15.
+ * My original game was too simple. It was just a "yes" or "no" game. I got some help from my cousin who has some 
+ * knowledge in java so we came up with thie. This is a recreation of a game we found in an online tutorial.
+ * He help me turn the game into something basic with only the stuff we have learned so far. Without his help,
+ * I would be turning in the same lame "yes" or "no" project. 
  */
 public class Javagame {
     public static void main(String[] args) {
